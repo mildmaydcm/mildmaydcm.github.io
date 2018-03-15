@@ -1754,6 +1754,24 @@ body {
 .cid-qMcZWVRMdY .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-qMlK15xQfW {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-qMlK15xQfW .mbr-text,
+.cid-qMlK15xQfW blockquote {
+  color: #767676;
+}
+.cid-qMlK15xQfW .mbr-text DIV {
+  color: #232323;
+}
+.cid-qMlK15xQfW .mbr-text B {
+  color: #0f7699;
+}
+.cid-qMlK15xQfW .mbr-text {
+  color: #ffffff;
+}
 .cid-qMcZYehJpe {
   padding-top: 120px;
   padding-bottom: 0px;
