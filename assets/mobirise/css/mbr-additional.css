@@ -1367,12 +1367,12 @@ body {
 }
 .cid-qMcZWVRMdY .navbar {
   padding: .5rem 0;
-  background: #454545;
+  background: #072e3b;
   transition: none;
   min-height: 77px;
 }
 .cid-qMcZWVRMdY .navbar-dropdown.bg-color.transparent.opened {
-  background: #454545;
+  background: #072e3b;
 }
 .cid-qMcZWVRMdY a {
   font-style: normal;
@@ -1456,7 +1456,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qMcZWVRMdY .dropdown .dropdown-menu {
-  background: #454545;
+  background: #072e3b;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1786,10 +1786,10 @@ body {
 }
 .cid-qMcZYehJpe .mbr-text P {
   text-align: left;
-  color: #000000;
+  color: #072e3b;
 }
 .cid-qMlzNTSc41 {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background: #efefef;
 }
