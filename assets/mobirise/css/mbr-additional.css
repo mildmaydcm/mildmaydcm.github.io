@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
-@import url(https://fonts.googleapis.com/css?family=Cinzel:400,700,900);
 
 
 
@@ -49,7 +48,7 @@ body {
   font-size: 1.92rem;
 }
 .display-7 {
-  font-family: 'Cinzel', serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 1.1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -648,7 +647,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Cinzel', serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 1.1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1756,7 +1755,7 @@ body {
 .cid-qMlK15xQfW {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #f1f7f2;
 }
 .cid-qMlK15xQfW .mbr-text,
 .cid-qMlK15xQfW blockquote {
@@ -1773,8 +1772,8 @@ body {
 }
 .cid-qMcZYehJpe {
   padding-top: 120px;
-  padding-bottom: 0px;
-  background-color: #efefef;
+  padding-bottom: 30px;
+  background-color: #f1f7f2;
 }
 .cid-qMcZYehJpe .mbr-text,
 .cid-qMcZYehJpe blockquote {
@@ -1788,9 +1787,9 @@ body {
   color: #2e2c2c;
 }
 .cid-qMlzNTSc41 {
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 0px;
-  background: #efefef;
+  background: #f1f7f2;
 }
 .cid-qMlzNTSc41 .image-block {
   margin: auto;
@@ -1811,7 +1810,7 @@ body {
 .cid-qMlAziDjx6 {
   padding-top: 0px;
   padding-bottom: 30px;
-  background-color: #efefef;
+  background-color: #f1f7f2;
 }
 .cid-qMlAziDjx6 .mbr-text,
 .cid-qMlAziDjx6 blockquote {
