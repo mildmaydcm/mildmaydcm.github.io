@@ -1703,7 +1703,7 @@ body {
 .cid-qPpJriJYme table {
   width: 100% !important;
   margin-top: 6px;
-  border: 1px solid #35b965;
+  border: 1px solid #084e21;
   margin-bottom: 0;
 }
 .cid-qPpJriJYme table th {
@@ -1712,11 +1712,11 @@ body {
   border-bottom: none;
 }
 .cid-qPpJriJYme table th:hover {
-  background: #35b965;
+  background: #084e21;
   color: #ffffff;
 }
 .cid-qPpJriJYme table td {
-  border-top: 1px solid #35b965;
+  border-top: 1px solid #084e21;
 }
 .cid-qPpJriJYme table.table {
   background: #149c45;
